@@ -1,2 +1,3 @@
 This 
-This is written from remote repo
+
+Deleted above line through remote repo
